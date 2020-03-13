@@ -9,5 +9,8 @@ vairākas šādas ierīces, kuras būtu savienotas savā starpā un veiktu mēr�
 * izveidot shēmu : ☑
 * izveidot 3d modeli : ☐
 
-##Shēma
+## Shēma
 <img src="https://github.com/Nilsspuravs/Track-sound-pollution/blob/master/shema.png" width="400" height="300">
+
+## Licence
+Licenzēts zem GNU General Public License v3.0
